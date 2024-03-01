@@ -1,0 +1,5 @@
+payload:
+  # > Adobe
+  - DOMAIN-SUFFIX,adobe.com
+  - DOMAIN-KEYWORD,adobe
+  - DOMAIN,adobe.com
